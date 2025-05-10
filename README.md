@@ -1,6 +1,6 @@
 # Light_up
 
-An AI-powered smart glasses system designed to assist visually impaired individuals in their daily activities.
+A computer vision and AI-powered software system designed to assist visually impaired individuals in their daily activities through real-time audio feedback and environmental awareness.
 
 ## Project Status
 This project is currently under development. The following features are fully functional:
